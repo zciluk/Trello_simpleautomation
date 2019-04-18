@@ -1,7 +1,7 @@
 Feature: As a new user, I would like to register my account
 #Available fields on login screen: id:"name" input, id:"email" input, id:"password" input, id:"signup" input
 @ID-004 @signup
-Scenario: User can register with valid data
+Scenario: User should be able to register using valid data
 
 Given I am on Trello "signup" page
 When I fill in "name" field with "[unique-name]"
