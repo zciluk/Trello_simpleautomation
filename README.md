@@ -8,7 +8,7 @@ Test are covering one scenario for each of two User Stories:
 | **As a user I would like to log in my account with my e-mail and password**  | ID-001 - User should see initial login screen empty|
 
 
-Test are written using Capybara + Selenium and Cucumber. Additional lib is Faker which is used for generating fake data for registration. 
+Test are written in Ruby using Capybara + Selenium and Cucumber. Additional lib is Faker which is used for generating fake data for registration. 
 
 #### Installation 
 
